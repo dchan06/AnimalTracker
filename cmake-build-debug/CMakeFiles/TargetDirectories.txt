@@ -1,0 +1,3 @@
+/Users/davidchan/CLionProjects/AnimalTracker/cmake-build-debug/CMakeFiles/AnimalTracker.dir
+/Users/davidchan/CLionProjects/AnimalTracker/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/davidchan/CLionProjects/AnimalTracker/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,27 @@
+# ninja log v6
+5	460	1746105590601296032	CMakeFiles/AnimalTracker.dir/Animal.cpp.o	cf88322771f95921
+5	460	1746105590601418408	CMakeFiles/AnimalTracker.dir/Prey.cpp.o	c341709a1b9b080
+6	466	1746105590602275998	CMakeFiles/AnimalTracker.dir/Fish.cpp.o	3d83389bd666bbed
+6	411	1746106473826566249	CMakeFiles/AnimalTracker.dir/main.cpp.o	12fe9ca74447c4d6
+8	492	1746107474311722308	CMakeFiles/AnimalTracker.dir/Bear.cpp.o	4218709157a880e4
+8	538	1746107474311451765	CMakeFiles/AnimalTracker.dir/Predator.cpp.o	f09921fe8b62a8b4
+443	532	1746106474264075944	AnimalTracker	804cb53e0b01ffe9
+7	437	1746114560870482114	CMakeFiles/AnimalTracker.dir/Bear.cpp.o	4218709157a880e4
+5	441	1746114560869347830	CMakeFiles/AnimalTracker.dir/main.cpp.o	12fe9ca74447c4d6
+6	443	1746114560870053867	CMakeFiles/AnimalTracker.dir/Predator.cpp.o	f09921fe8b62a8b4
+7	476	1746114560870903861	CMakeFiles/AnimalTracker.dir/MainCharacter.cpp.o	c27c6a41b86ebd70
+476	577	1746114561340230409	AnimalTracker	594bb9cc957aa8f6
+5	412	1746114580960101795	CMakeFiles/AnimalTracker.dir/MainCharacter.cpp.o	c27c6a41b86ebd70
+412	438	1746114581366672404	AnimalTracker	594bb9cc957aa8f6
+6	512	1746114594442571340	CMakeFiles/AnimalTracker.dir/MainCharacter.cpp.o	c27c6a41b86ebd70
+512	600	1746114594948558323	AnimalTracker	594bb9cc957aa8f6
+6	385	1746114617218558785	CMakeFiles/AnimalTracker.dir/MainCharacter.cpp.o	c27c6a41b86ebd70
+385	411	1746114617597616067	AnimalTracker	594bb9cc957aa8f6
+10	557	1746114737791944897	CMakeFiles/AnimalTracker.dir/Fish.cpp.o	3d83389bd666bbed
+10	559	1746114737791507192	CMakeFiles/AnimalTracker.dir/Animal.cpp.o	cf88322771f95921
+10	564	1746114737791648274	CMakeFiles/AnimalTracker.dir/Prey.cpp.o	c341709a1b9b080
+10	596	1746114737791844898	CMakeFiles/AnimalTracker.dir/Bear.cpp.o	4218709157a880e4
+9	597	1746114737791152902	CMakeFiles/AnimalTracker.dir/main.cpp.o	12fe9ca74447c4d6
+10	600	1746114737791746399	CMakeFiles/AnimalTracker.dir/Predator.cpp.o	f09921fe8b62a8b4
+10	637	1746114737792038688	CMakeFiles/AnimalTracker.dir/MainCharacter.cpp.o	c27c6a41b86ebd70
+637	725	1746114738419192159	AnimalTracker	594bb9cc957aa8f6
